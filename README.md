@@ -3,7 +3,7 @@
 - 💡 Enthusiastic about data structures & algorithms.
 - 📖 Currently learning SAP ABAP.
 - Frontend: React.js, Next.js, TypeScript, TailwindCSS
-- Backend: Node.js, MongoDB
+- Backend: Node.js, Express.js, MongoDB
 - 📧 Contact me: ayayaderrick@protonmail.com
 
 <!---
