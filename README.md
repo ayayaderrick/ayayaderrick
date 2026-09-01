@@ -1,10 +1,11 @@
-# Hi there, I'm Derrick Ayaya 👋 
+# Hi there, I'm Derrick Ayaya <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHg1eHpxOXJhYTU5dHFvMzBndDNmdmZicGc3ZDFmeHR0cTRmMWVhMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hDSGolpaNZTK9OQJqk/giphy.gif" width="40" alt="Hand Wave">
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXNpajRweHFibDJvOWdmNmNqb2FqcXdtZnJkMWdleTI2OW81ZHMwcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xYPdnwsRPZDhCxXvOi/giphy.gif" width="200" alt="Coding Sticker">
-I am a results-driven **SAP ABAP Cloud Backend Developer**, **Full-Stack Web Developer**, and **Certified Cloud AI Professional** based in Nairobi, Kenya. I specialize in bridging enterprise-grade SAP backend systems.
+
+I am a results-driven **SAP ABAP Cloud Backend Developer**, **Full-Stack Web Developer**, and **Certified Cloud AI Professional** based in Nairobi, Kenya. I specialize in building enterprise-grade SAP backend systems.
 
 
-### A Little Bit More About Me...
+## A Little Bit More About Me...
 ```typescript
   const profile = {
     name: "Derrick Ayaya",
@@ -44,7 +45,7 @@ I am a results-driven **SAP ABAP Cloud Backend Developer**, **Full-Stack Web Dev
 ```
 
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/derrick-ayaya]
 * 📧 **Gmail:** derrickayaya@gmail.com
