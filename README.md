@@ -1,50 +1,53 @@
-# Hi there, I'm Derrick Ayaya 👋 🚀
+# Hi there, I'm Derrick Ayaya 👋 
 
-I am a results-driven **SAP ABAP Cloud Backend Developer**, **Full-Stack Web Developer**, and **Certified Cloud AI Professional** based in Nairobi, Kenya. I specialize in bridging enterprise-grade SAP backend systems with modern web architectures and cutting-edge artificial intelligence implementations.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXNpajRweHFibDJvOWdmNmNqb2FqcXdtZnJkMWdleTI2OW81ZHMwcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xYPdnwsRPZDhCxXvOi/giphy.gif" width="200" alt="Coding Sticker">
+I am a results-driven **SAP ABAP Cloud Backend Developer**, **Full-Stack Web Developer**, and **Certified Cloud AI Professional** based in Nairobi, Kenya. I specialize in bridging enterprise-grade SAP backend systems.
 
----
 
-### 🛠️ Technical Toolkit
+### A Little Bit More About Me...
+```typescript
+  const profile = {
+    name: "Derrick Ayaya",
+    pronouns: ["he", "him"],
+    languages: ["SAP ABAP", "TypeScript", "JavaScript"],
+    
+    technologies: {
+      enterprise: {
+        devModel: ["SAP ABAP Cloud"],
+        frontend: ["SAP Fiori", "OData v4"],
+        backend: ["ABAP RESTful Application Programming", "SAP ABAP", "ABAP CDS"],
+        tools: ["ABAP Development Tools"],
+        deployment: ["SAP BTP ABAP Environment", "SAP Business Application Studio"],
+      },
+  
+      web: {
+        frontend: {
+          frameworks: ["React", "Next.js"],
+          styling: ["Tailwind CSS"],
+          uiLibraries: ["shadcn/ui"]
+        },
+        backend: ["Node.js", "Next.js"]
+      },
+  
+      devOps: {
+        tools: ["CI/CD", "GitHub Actions", "Git"],
+      },
+  
+      databases: {
+        relational: ["SAP HANA", "PostgreSQL"],
+        nosql: ["MongoDB"],
+        inMemory: ["Redis"]
+      },
+  
+  };
 
-| Category | Technologies |
-| :--- | :--- |
-| **SAP Ecosystem** | SAP ABAP Cloud, RESTful ABAP Programming Model (RAP), Core Data Services (CDS) Views, SAP BTP, OData Services |
-| **Artificial Intelligence** | Generative AI Architecture, LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-Tuning |
-| **Web Development** | JavaScript (ES6+), TypeScript, React, Next.js, Node.js, Express.js, Vite, HTML5, CSS3, Tailwind CSS |
-| **Cloud & Systems** | Oracle Cloud Infrastructure (OCI), Git, GitHub, Windows Environments, Linux, Networking |
-| **Core Competencies** | Data Structures & Algorithms, Cyber Security (CEH), Side-by-Side Cloud Extensions, Agile Methodologies |
+```
 
----
-
-### 🌟 Featured Enterprise & Open Source Projects
-
-#### 🚛 [Fleet Asset Maintenance Tracker](https://github.com/ayayaderrick/rap-fleet-maintenance.git) 
-An enterprise-ready cloud asset management solution built using the **SAP RESTful ABAP Programming Model (RAP)** on the **SAP Business Technology Platform (BTP)**.
-* Designed multi-layered **Core Data Services (CDS)** views for data modeling.
-* Implemented managed transaction controls with unmanaged internal numbering via RAP behavior definitions.
-* Exposed secure **OData services** optimized for mobile and web frontend client rendering.
-
-#### 🗳️ Secure Online Voting System
-A secure digital voting platform developed for my academic final year project at JKUAT.
-* Engineered entirely with advanced JavaScript, HTML5, and CSS3.
-* Implemented strict user authentication protocols ensuring cryptographic data integrity.
-
----
-
-### 📜 Certifications & Education
-
-* 🎓 **Diploma in Information Technology (Distinction)** – Jomo Kenyatta University of Agriculture and Technology (JKUAT)
-* 🛡️ **Certified Ethical Hacker (CEH v10)** – Techno Brain Institute
-* 🤖 **OCI 2025 Certified Generative AI Professional** – Oracle 
-* 🧠 **OCI 2025 Certified AI Foundations Associate** – Oracle
-
----
 
 ### 📬 Connect With Me
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/derrick-ayaya]
 * 📧 **Gmail:** derrickayaya@gmail.com
-* 📍 **Location:** Nairobi, Kenya
 
----
-⭐ *“Continuously exploring the horizons of enterprise computing, complex algorithms, and intelligent systems.”*
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFwbWxtbzIxbDRtb3Z0a3M5NmszdWRmNWh3dm1ibmxzOWJ2cjdmaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connections Image"> ***I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊***
